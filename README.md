@@ -48,9 +48,9 @@
 
 ➡️ [Google Chrome Extension](https://chrome.google.com/webstore/search/exxempt)
 
-[![cse_dillo](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fexxempt.dev)](https://chrome.google.com/webstore/detail/dillo-me-tool/adeiiccfiaoojihmdgicoicobbonalkk)
+[![cse_dillo](https://img.shields.io/website?label=extension&style=for-the-badge&url=https://chrome.google.com/webstore/detail/dillo-me-tool/adeiiccfiaoojihmdgicoicobbonalkk)](https://chrome.google.com/webstore/detail/dillo-me-tool/adeiiccfiaoojihmdgicoicobbonalkk)
 
-[![cse_basc](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fexxempt.dev)](https://chrome.google.com/webstore/detail/basc-me-tool/acilpehmkdennemmdkbmanfnfdplfgaa)
+[![cse_basc](https://img.shields.io/website?label=extension&style=for-the-badge&url=https://chrome.google.com/webstore/detail/basc-me-tool/acilpehmkdennemmdkbmanfnfdplfgaa)](https://chrome.google.com/webstore/detail/basc-me-tool/acilpehmkdennemmdkbmanfnfdplfgaa)
 
 ---
  
