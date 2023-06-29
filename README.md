@@ -12,6 +12,8 @@
 - 🥅 2023 Goals: Code more in Rust
 - ⚡ Fun fact: I love fitness and miniatures 
 
+---
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://exxempt.dev#gh-light-mode-only)
