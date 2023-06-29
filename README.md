@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Father, Developer, and Systems Engineer!!
 
-<img align="right" alt="monkey" height="300px" width="300px" src="./img/4496.png" />
+<img align="right" alt="monkey" height="200px" width="200px" src="./img/4496.png" />
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other builders
