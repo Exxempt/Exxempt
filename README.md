@@ -2,16 +2,15 @@
 
 [![Website](https://img.shields.io/website?label=exxempt.dev&style=for-the-badge&url=https%3A%2F%2Fexxempt.dev)](https://exxempt.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/exxempt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fexxempt&screen_name=exxemptdev)
-<img align="right" alt="monkey" height="200px" width="200px" src="./img/4496.png" />
 
 ## I'm a Husband, Father, Developer, and Systems Engineer!!
+<img align="right" alt="monkey" height="200px" width="200px" src="./img/4496.png" />
+
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other builders
 - 🥅 2023 Goals: Code more in Rust
 - ⚡ Fun fact: I love fitness and miniatures 
-
----
 
 ### Connect with me:
 
