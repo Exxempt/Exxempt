@@ -6,9 +6,9 @@
 ## I'm a Husband, Father, Developer, and Systems Engineer!!
 
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other builders
 - 🥅 2023 Goals: Code more in Rust
-- ⚡ Fun fact: I love fitness and miniature
+- ⚡ Fun fact: I love fitness and miniatures
 
 ### Connect with me:
 
@@ -42,15 +42,6 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />][website]
 
 <br />
-<br />
-
----
-
-➡️ [Google Chrome Extension](https://chrome.google.com/webstore/search/exxempt)
-
-[![cse_dillo](https://img.shields.io/website?label=extension&style=for-the-badge&url=https://chrome.google.com/webstore/detail/dillo-me-tool/adeiiccfiaoojihmdgicoicobbonalkk)](https://chrome.google.com/webstore/detail/dillo-me-tool/adeiiccfiaoojihmdgicoicobbonalkk)
-
-[![cse_basc](https://img.shields.io/website?label=extension&style=for-the-badge&url=https://chrome.google.com/webstore/detail/basc-me-tool/acilpehmkdennemmdkbmanfnfdplfgaa)](https://chrome.google.com/webstore/detail/basc-me-tool/acilpehmkdennemmdkbmanfnfdplfgaa)
 
 ---
  
@@ -71,6 +62,21 @@
 ![](https://github-profile-trophy.vercel.app/?username=Exxempt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </details>
+
+---
+
+➡️ [Google Chrome Extension](https://chrome.google.com/webstore/search/exxempt)
+
+[![cse_dillo](https://img.shields.io/website?label=extension&style=for-the-badge&url=https://chrome.google.com/webstore/detail/dillo-me-tool/adeiiccfiaoojihmdgicoicobbonalkk)](https://chrome.google.com/webstore/detail/dillo-me-tool/adeiiccfiaoojihmdgicoicobbonalkk)
+
+[![cse_basc](https://img.shields.io/website?label=extension&style=for-the-badge&url=https://chrome.google.com/webstore/detail/basc-me-tool/acilpehmkdennemmdkbmanfnfdplfgaa)](https://chrome.google.com/webstore/detail/basc-me-tool/acilpehmkdennemmdkbmanfnfdplfgaa)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Exxempt&icon=5&color=0)](https://visitcount.itsvg.in)
+
+## Buy me a coffee!
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/exxempt) 
 
 
 [website]: https://exxempt.dev
