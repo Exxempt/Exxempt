@@ -5,10 +5,12 @@
 
 ## I'm a Husband, Father, Developer, and Systems Engineer!!
 
+<img align="right" alt="monkey" height="300px" width="300px" src="./img/4496.png" />
+
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other builders
 - 🥅 2023 Goals: Code more in Rust
-- ⚡ Fun fact: I love fitness and miniatures
+- ⚡ Fun fact: I love fitness and miniatures 
 
 ### Connect with me:
 
