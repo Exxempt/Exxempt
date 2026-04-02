@@ -5,11 +5,18 @@
 
 ---
 
-<img align="left" alt="monke" height="140px" src="./img/4496.png" />
+<table>
+<tr>
+<td width="160px" valign="middle">
+  <img alt="monke" height="140px" src="./img/4496.png" />
+</td>
+<td valign="middle">
 
 I'm a **Systems Engineer & Developer** working in Army Aviation environments, building and modernizing enterprise applications.
 
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 ## 🧠 About Me
 
