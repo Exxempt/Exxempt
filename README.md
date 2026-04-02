@@ -1,5 +1,7 @@
 # 👋 Hey, I'm James (Exxempt)
 
+<img align="right" alt="monke" height="140px" src="./img/4496.png" />
+
 [![Website](https://img.shields.io/badge/Website-exxempt.dev-black?style=for-the-badge)](https://exxempt.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/exxemptdev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/exxemptdev)
 
