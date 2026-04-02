@@ -12,7 +12,7 @@
 </td>
 <td valign="middle">
 
-I'm a **Systems Engineer & Developer** working in Army Aviation environments, building and modernizing enterprise applications.
+I'm a **Systems Engineer & Developer** working in Aviation environments, building and modernizing enterprise applications.
 
 </td>
 </tr>
