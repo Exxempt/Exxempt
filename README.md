@@ -7,9 +7,13 @@
 
 ---
 
+<img align="left" alt="monke" height="140px" src="./img/4496.png" />
+
 ## 🧠 About Me
 
 I'm a **Systems Engineer & Developer** working in Army Aviation environments, building and modernizing enterprise applications.
+
+<br clear="left"/>
 
 - 🛠️ Lead Systems Engineer (DoD / Aviation)
 - 💻 Focused on **Next.js, Rust, and enterprise tooling**
